@@ -1,0 +1,6 @@
+{
+  "name": "Galactic Invaders - Retro Arcade",
+  "description": "A classic arcade space shooter inspired by Space Invaders and Galaga, featuring a multi-sector Level System, asteroid hazards, dive-bombing aliens, mothership boss battles, power-ups, and synth sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
